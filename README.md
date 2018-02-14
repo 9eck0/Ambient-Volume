@@ -10,8 +10,8 @@ This Android app detects your environment's sound amplitude, then adjusts your p
 --------------------------------------
 
 ### To-do list:
-- [ ] Reorganize the UIto be less of an eyesore.
+- [ ] Reorganize the UI to be less of an eyesore.
 - [ ] Run this program as a background service.
 - [ ] Implement notification & widget control.
 - [ ] Setting to specify the behaviour of the app after the user manually changed the volume.
-- [ ] :sparkles: In the far future :sparkles: : setting to automatically pause phone's currently streaming sound when an ambient music is detected.
+- [ ] :sparkles: In the far future :sparkles: : setting to automatically pause phone's currently streaming sound when an ambient music is detected (using artificial intelligence).
